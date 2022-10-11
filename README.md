@@ -18,7 +18,7 @@ Piwigo requires [docker compose](https://docs.docker.com/compose/) v3 to run.
 Install Docker, download the  docker-compose.yml and spin up the container
 
 ```sh
-wget
+git clone https://github.com/peterweissdk/piwigo-docker-compose
 docker compose up -d
 ```
 
