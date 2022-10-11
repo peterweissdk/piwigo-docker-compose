@@ -59,6 +59,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-######*_I used: [Dillinger](https://dillinger.io) to create this file_*
+###### _I used [Dillinger](https://dillinger.io) to create this file_
 
 [//]: # (misc. -comments)
