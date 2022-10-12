@@ -33,6 +33,8 @@ Stop running container
 ```sh
 docker compose down
 ```
+## Note!!!
+If you are running a HTTP Piwigo server behind af HTTPS reverse proxy server, and the proxy server handles the ssl certificates, you might not be able to see your photos in the official mobile app. Only empty thumpnails and empty photos will appear. Try to incorporate *http-request set-header X-Forwarded-Proto https if { ssl_fc }* in your reverse proxy setup.
 
 **Want to contribute? Go ahead...!**
 
