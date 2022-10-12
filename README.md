@@ -3,7 +3,7 @@
 
 
 This Docker compose file include the base images from linuxserver/mariadb and linuxserver/piwigo
-The setup is testet on a Raspberry Pi 3 running Ubuntu 22.04 headless server.
+This setup is testet on a Raspberry Pi 3 running Ubuntu 22.04 headless server.
 
 ### _My setup:_
 - Piwigo
